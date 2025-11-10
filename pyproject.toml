@@ -13,4 +13,4 @@ dependencies = [
 ]
 
 [project.scripts]
-rip-factory = "series_namer.series_namer:main"
+rip-factory = "rip_factory.rip_factory:main"
